@@ -1,6 +1,6 @@
 ﻿ 1.	Beskriv skillnaden mellan vattenfallsmodellen och agil metodik.
 När bör man använda vilken, och varför? 
-                                   (från övning vecka1)
+                                    (från övning vecka1)
 
 
 När det kommer till agile och vattenfall har båda sina fördelar och nackdelar. om man ska kortfattat förklara likheterna och skillnaderna finns det bland annat att vattenfall att man planerar saker och ting i början och att det finns stor risk med “projektet” kan gå dåligt pga att feedback är alldeles för sent och det kan antingen gå åt skogen eller bli en succe jämfört med agile arbetssätt som man konstant hela tiden fram och tillbaka baseras arbetssättet på feedback och försöker göra kunderna så nöjda man kan, som jag nämnde tidigare de finns fördelar och nackdelar med båda projekten och det kan gå både gå åt skogen för båda sätten. 

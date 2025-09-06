@@ -5,4 +5,4 @@ branch är som en kopia, du har kopian samtidigt som andra kan fortfarande koda 
 
  Pull requests är som det precis låter, att du "request” när du frågar och vill att någon ska kolla på din kod och om de vill godkänna och “lägga till koden” tillsammans med huvudprojektet.
 
-merge är när man sätter ihop alla bitar tillsammans som jag nämnde med huvudkoden alltså sista pusselbiten kan man säga. Man kan säga att bransch,pull requests och merge har saker gemensamt och jobbar ihop som ett ”team” för att underlätta arbetet som man har jobbat med.
+En merge är när man sätter ihop alla bitar tillsammans som jag nämnde med huvudkoden alltså sista pusselbiten kan man säga. Man kan säga att bransch,pull requests och merge har saker gemensamt och jobbar ihop som ett ”team” för att underlätta arbetet som man har jobbat med.
