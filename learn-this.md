@@ -1,4 +1,4 @@
-﻿🖥️ #vad jag vill lära mig på den här utbildningen
+﻿🏫 #vad jag vill lära mig på den här utbildningen
 
 
  📚  c#
@@ -8,3 +8,6 @@
 
 
 🧩 SQL
+
+
+🖥️webbapplikationer med c# och .net
