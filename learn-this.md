@@ -10,4 +10,6 @@
 🧩 SQL
 
 
-🖥️webbapplikationer med c# och .net
+🖥️webbapplikationer
+
+
